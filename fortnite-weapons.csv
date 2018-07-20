@@ -1,0 +1,42 @@
+Assault Rifle (M4),Common,5.5,30,2.3,2,30,60,https://i.imgur.com/KfoXkLx.png,165,330,4.75,2.75
+Assault Rifle (M4),Uncommon,5.5,30,2.2,2,31,62,https://i.imgur.com/KfoXkLx.png,170.5,341,4.75,2.75
+Assault Rifle (M4),Rare,5.5,30,2.2,2,33,66,https://i.imgur.com/KfoXkLx.png,181.5,363,4.75,2.75
+Assault Rifle (SCAR),Epic,5.5,30,2.2,2,35,70,https://i.imgur.com/KfoXkLx.png,192.5,385,4.25,2.5
+Assault Rifle (SCAR),Legendary,5.5,30,2.1,2,36,72,https://i.imgur.com/KfoXkLx.png,198,396,4.25,2.5
+Assault Rifle (Burst),Common,4.06,30,2.9,2,27,54,https://i.imgur.com/Sx9T45c.png,109.62,219.24,5.25,2.75
+Assault Rifle (Burst),Uncommon,4.06,30,2.7,2,29,58,https://i.imgur.com/Sx9T45c.png,117.74,235.48,5,2.75
+Assault Rifle (Burst),Rare,4.06,30,2.6,2,30,60,https://i.imgur.com/Sx9T45c.png,121.8,243.6,4.75,2.75
+Assault Rifle (Burst),Epic,1.75,30,2.5,2,32,64,,56,112,4.75,2.75
+Assault Rifle (Burst),Legendary,1.75,30,2.3,2,33,66,,57.75,115.5,4.75,2.75
+Assault Rifle (Scoped),Rare,3.5,20,2.3,2,23,46,,80.5,161,6.25,3.5
+Assault Rifle (Scoped),Epic,3.5,20,2.2,2,24,48,,84,168,6.25,3.5
+Bolt-Action Sniper Rifle,Rare,0.33,1,3,2.5,105,262.5,,34.65,86.625,1.5,1
+Bolt-Action Sniper Rifle,Epic,0.33,1,2.8,2.5,110,275,,36.3,90.75,1.5,1
+Bolt-Action Sniper Rifle,Legendary,0.33,1,2.7,2.5,116,290,,38.28,95.7,1.5,1
+Semi-Auto Sniper Rifle,Epic,1.2,10,2.5,2.5,63,157.5,,75.6,189,2.75,1.25
+Semi-Auto Sniper Rifle,Legendary,1.2,10,2.3,2.5,66,165,,79.2,198,2.75,1.25
+Crossbow,Rare,0.6,5,2.6,2,75,150,,45,90,2,1.25
+Crossbow,Epic,0.6,5,2.5,2,79,158,,47.4,94.8,2,1.25
+Hunting Rifle,Uncommon,0.8,1,1.9,2.5,86,215,,68.8,172,2,1
+Hunting Rifle,Rare,0.8,1,1.8,2.5,90,225,,72,180,2,1
+Tactical Shotgun,Common,1.5,8,6.3,2,67,134,,100.5,201,2.5,1.5
+Tactical Shotgun,Uncommon,1.5,8,6,2,70,140,,105,210,2.5,1.5
+Tactical Shotgun,Rare,1.5,8,6,2,74,148,,111,222,2.5,1.5
+Pump Shotgun,Uncommon,0.7,5,4.8,2,80,160,,56,112,2,1.25
+Pump Shotgun,Rare,0.7,5,4.6,2,85,170,,59.5,119,2,1.25
+Tactical Submachine Gun,Uncommon,10,30,2.4,2.5,16,40,https://i.imgur.com/0pv2CZd.png,160,400,8.75,3.5
+Tactical Submachine Gun,Rare,10,30,2.3,2.5,17,42.5,https://i.imgur.com/0pv2CZd.png,170,425,8,3.5
+Tactical Submachine Gun,Epic,10,30,2.2,2.5,18,45,https://i.imgur.com/0pv2CZd.png,180,450,8,3.5
+Submachine Gun (Suppressor),Common,9,30,2.2,2,20,40,https://i.imgur.com/IdcVPzm.png,180,360,6.75,3.5
+Submachine Gun (Suppressor),Uncommon,9,30,2.1,2,21,42,https://i.imgur.com/IdcVPzm.png,189,378,6.75,3.5
+Submachine Gun (Suppressor),Rare,9,30,2,2,22,44,https://i.imgur.com/IdcVPzm.png,198,396,6.5,3.5
+Revolver,Common,0.9,6,2.4,2,54,108,https://i.imgur.com/tqZnvxB.png,48.6,97.2,2.75,1.5
+Revolver,Uncommon,0.9,6,2.3,2,57,114,https://i.imgur.com/tqZnvxB.png,51.3,102.6,2.75,1.5
+Revolver,Rare,0.9,6,2.2,2,60,120,https://i.imgur.com/tqZnvxB.png,54,108,2.75,1.5
+Pistol,Common,6.75,16,1.5,2,23,46,https://i.imgur.com/cUntR6r.png,155.25,310.5,6.25,3.5
+Pistol,Uncommon,6.75,16,1.5,2,24,48,https://i.imgur.com/cUntR6r.png,162,324,6.25,3.5
+Pistol,Rare,6.75,16,1.4,2,25,50,https://i.imgur.com/cUntR6r.png,168.75,337.5,5.25,2.75
+Suppressed Pistol,Epic,6.75,16,1.3,2,26,52,https://i.imgur.com/aT5F3c0.png,175.5,351,5.25,2.75
+Suppressed Pistol,Legendary,6.75,16,1.3,2,28,56,https://i.imgur.com/aT5F3c0.png,189,378,5.25,2.75
+Hand Cannon,Epic,0.8,7,2.1,2,75,150,https://i.imgur.com/UrhFxZg.png,60,120,2,1.25
+Hand Cannon,Legendary,0.8,7,2,2,78,156,https://i.imgur.com/UrhFxZg.png,62.4,124.8,2,1.25
